@@ -1,4 +1,4 @@
-package io.tech.authorizeserver.config;
+package io.tech.authorization.config;
 
 
 import org.springframework.context.annotation.Bean;

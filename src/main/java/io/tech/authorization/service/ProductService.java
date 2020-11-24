@@ -1,7 +1,7 @@
-package io.tech.authorizeserver.service;
+package io.tech.authorization.service;
 
-import io.tech.authorizeserver.entity.Product;
-import io.tech.authorizeserver.repository.ProductRepository;
+import io.tech.authorization.entity.Product;
+import io.tech.authorization.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package io.tech.authorizeserver.entity;
+package io.tech.authorization.entity;
 
 import lombok.*;
 

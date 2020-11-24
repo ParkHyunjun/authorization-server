@@ -1,14 +1,13 @@
-package io.tech.authorizeserver.controller;
+package io.tech.authorization.controller;
 
-import io.tech.authorizeserver.entity.Product;
-import io.tech.authorizeserver.model.Message;
-import io.tech.authorizeserver.model.ProductDto;
-import io.tech.authorizeserver.service.ProductService;
+import io.tech.authorization.entity.Product;
+import io.tech.authorization.model.Message;
+import io.tech.authorization.model.ProductDto;
+import io.tech.authorization.service.ProductService;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

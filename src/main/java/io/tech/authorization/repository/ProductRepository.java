@@ -1,6 +1,6 @@
-package io.tech.authorizeserver.repository;
+package io.tech.authorization.repository;
 
-import io.tech.authorizeserver.entity.Product;
+import io.tech.authorization.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package io.tech.authorizeserver.model;
+package io.tech.authorization.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
