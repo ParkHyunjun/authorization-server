@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.tech</groupId>
-	<artifactId>authorize-server</artifactId>
+	<artifactId>authorization-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>authorize-server</name>
 	<description>Project for Authorize Server</description>
